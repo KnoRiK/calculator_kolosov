@@ -1,0 +1,13 @@
+print('Первое число')
+A = int(input())
+print('Второе число')
+B = int(input())
+
+print(A + B)
+print(A - B)
+print(B - A)
+print(A * B)
+print(A / B)
+print(B / A)
+print(A ** B)
+print(B ** A)
